@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Antonio Bryan 💭🌪️
-Atualmente no ensino médio cursando informática em uma escola profissionalizante...
+Atualmente estou no ensino médio cursando informática em uma escola profissionalizante...
 
 ![Bryan GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryaxz&show_icons=true&theme=tokyonight&locale=pt-br)
 
